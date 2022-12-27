@@ -25,13 +25,6 @@ I’m interested in Data Analyst and Data Science 👀
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 
 
-# 📟 GitHub Stats
-(https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
-
-# 📊 Most Used Language
-![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green}})
-
-
 # Contact
 📫 How to reach me 
 

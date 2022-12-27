@@ -29,7 +29,7 @@ I’m interested in Data Analyst and Data Science 👀
 (https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 # 📊 Most Used Language
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green}})
 
 
 # Contact

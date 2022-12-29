@@ -1,6 +1,6 @@
 Hi, I’m Raja Alamsyah Tahir 👋
 
-I’m interested in Data Analyst and Data Science 👀 
+I’m interested in Data Science 👀 
 
 
 # Tech
